@@ -4,6 +4,10 @@ export const ACCESS_TOKEN_EXPIRES = 7 * 24 * 3600;
 export const REFRESH_TOKEN_EXPIRES = 7 * 24 * 3600;
 export const JWT_SECRET = 'sec3455';
 export const OTP_TIME_EXP = 3600;
+export enum ENV {
+  MONGO_URI = 'MONGO_URI',
+  NODE_ENV = 'NODE_ENV'
+}
 
 export enum USER_TYPES {
   USER = 'user',
