@@ -1,0 +1,1 @@
+{"version":3,"file":"log.service.js","sourceRoot":"","sources":["../../src/services/log.service.ts"],"names":[],"mappings":";;;;;;;;;AAAA,2CAAoD;AAI7C,IAAM,aAAa,GAAnB,MAAM,aAAa;IAAnB;QACL,WAAM,GAAG,IAAI,eAAM,EAAE,CAAC;IAKxB,CAAC;IAHC,IAAI,GAAG;QACL,OAAO,IAAI,CAAC,MAAM,CAAC,GAAG,CAAC;IACzB,CAAC;CACF,CAAA;AANY,aAAa;IADzB,IAAA,mBAAU,GAAE;GACA,aAAa,CAMzB;AANY,sCAAa"}

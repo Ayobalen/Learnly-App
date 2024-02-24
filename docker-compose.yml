@@ -1,0 +1,13 @@
+version: '3.8'
+services:
+  nestjs-build:
+    build:
+      context: .
+      dockerfile: ./Dockerfile
+    image: learnly-api:latest
+    environment:
+      - MONGO_URI=mongodb+srv://Idris:AyobamI008@cluster0.raoig.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+      - NODE_ENV=production
+      - JWT_SECRET=12093487463
+    # ports:
+    #   - "4000:3000"  
